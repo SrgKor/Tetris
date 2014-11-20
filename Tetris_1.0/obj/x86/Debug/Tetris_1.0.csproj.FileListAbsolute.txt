@@ -13,3 +13,11 @@ C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\Tetri
 C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\Tetris_1.0\Tetris_1.0\obj\x86\Debug\Tetris_1._0.Properties.Resources.resources
 C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\Tetris_1.0\Tetris_1.0\obj\x86\Debug\Tetris_1.0.csproj.GenerateResource.Cache
 C:\Users\Сергей Королев\documents\visual studio 2010\Projects\Tetris_1.0\Tetris_1.0\obj\x86\Debug\Tetris_1._0.Form1_GameField.resources
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\obj\x86\Debug\Tetris_1.0.exe
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\obj\x86\Debug\Tetris_1.0.pdb
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\bin\Debug\Tetris_1.0.exe
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\bin\Debug\Tetris_1.0.pdb
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\obj\x86\Debug\Tetris_1.0.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\obj\x86\Debug\Tetris_1._0.Form1_GameField.resources
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\obj\x86\Debug\Tetris_1._0.Properties.Resources.resources
+C:\Users\Сергей\Desktop\tetris\Tetris_1.0\obj\x86\Debug\Tetris_1.0.csproj.GenerateResource.Cache

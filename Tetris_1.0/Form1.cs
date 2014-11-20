@@ -69,8 +69,8 @@ namespace Tetris_1._0
                 for (int j = 0; j < 20; j++)
                     if (kolodez[i, j] > 0)
                         e.Graphics.DrawImage(colorBlocks[kolodez[i, j]], i * 21 + 1, j * 21 + 1);
-            label1.Text = score.ToString();
-            label2.Text = timer1.Interval.ToString();
+            scoreLbl.Text = score.ToString();
+            timerIntervalLbl.Text = timer1.Interval.ToString();
                 
         }
 
